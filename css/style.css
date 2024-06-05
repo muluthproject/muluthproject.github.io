@@ -1519,7 +1519,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       bottom: 0;
       right: 0;
       top: 0;
-      background: rgba(0, 0, 0, 0.2); }
+      background: rgba(0, 0, 0, 0.4); }
   .hero-slant .container {
     position: relative; }
   .hero-slant, .hero-slant > .container > .row {
